@@ -23,7 +23,7 @@
 </p>
 
 <br>
-I used three-point estimate as I found that it is the most effective way to estimate tasks in scrum when doing so alone. With three-point estimate, I have three values, 1. The most likely value, 2. The optimistic value and 3. The pessimistic value.To calculate the actual estimate, I add the three values defined above and simply divide by 3. This gives me the most accurate task estimation value.
+I used three-point estimate as I found that it is the most effective way to estimate tasks in scrum when doing so alone. With three-point estimate, I have three values, 1. The most likely value, 2. The optimistic value and 3. The pessimistic value. To calculate the actual estimate, I add the three values defined above and simply divide by 3. This gives me the most accurate task estimation value.
 <br>
 
 <br>
